@@ -10,7 +10,7 @@ This Project is using below Cocoapods dependencies.
 'MBProgressHUD', '~> 0.8'
 
 
-#HTTP Client:
+HTTP Client:
 
 //Response contains music album details.
 
